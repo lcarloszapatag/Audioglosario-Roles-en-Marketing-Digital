@@ -31,7 +31,6 @@ Trabajar en equipo y fijar tareas correctamente.
 
 
 - Identifica usuario
-- 
--  crea  insights, Lanzara hipótesis sobre la audiencia(es útil para mejorar el performance de las campañas paga)
+   -  crea  insights, Lanzara hipótesis sobre la audiencia(es útil para mejorar el performance de las campañas paga)
 
 - Medir las estrategias.
