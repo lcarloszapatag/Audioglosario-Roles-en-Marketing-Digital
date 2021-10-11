@@ -4,8 +4,9 @@ Social media manager es el encargado de gestionar las estrategias en redes socia
 
 ![que es un social media manager](https://raw.githubusercontent.com/lcarloszapatag/Audioglosario-Roles-en-Marketing-Digital/main/que-es-social-media-manager.jpg)
 _________________________________________
-Define objetivos Métodos ymetricas
+Define objetivos Métodos y metricas
 para potencialidad la comunidad  y marca en diferentes canales sociales.
+
 Trabaja al lado de un comunity manager para hacer crecer una marca.
 __________________
 DIFERENCIA CON EL COMMUNITY MANAGER
@@ -15,7 +16,7 @@ DIFERENCIA CON EL COMMUNITY MANAGER
 ![Social media manager vs community](https://raw.githubusercontent.com/lcarloszapatag/Audioglosario-Roles-en-Marketing-Digital/main/roles-comunity-manajer-platzi.png)
 > Los mejores Crean una conexion emocional con la marca
 
-Si se logra sera la  mejor estrategia 
+Si se logra  esta citasera la  mejor estrategia 
 
 Tareas:
 
@@ -26,11 +27,11 @@ Tareas:
 Trabajar en equipo y fijar tareas correctamente.
 
 
-- Plantea objetivos e maneja el presupuesto
+- Plantea objetivos e maneja el presupuesto.
 
 
 - Identifica usuario 
 crea  insights, Lanzara hipótesis sobre la audiencia(es útil para mejorar el performance de las campañas paga)
 
   
-- Medir las estrategias
+- Medir las estrategias.
