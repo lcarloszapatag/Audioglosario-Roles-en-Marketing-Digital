@@ -13,11 +13,12 @@ DIFERENCIA CON EL COMMUNITY MANAGER
 [La diferencia es que el community](https://www.youtube.com/watch?v=vDw3XuBDJ8E) es mas operativo en social media y el social manager es mas estratégico
 
 ![Social media manager vs community](https://raw.githubusercontent.com/lcarloszapatag/Audioglosario-Roles-en-Marketing-Digital/main/roles-comunity-manajer-platzi.png)
-LOS MEJORES CREA UNA CONEXIÓN EMOCIONAL CON LA MARCA(Si se logra esto es que hay una buena estrategia)
+> Los mejores Crean una conexion emocional con la marca
 
+Si se logra sera la  mejor estrategia 
 Tareas:
 
-- Desarrolla  el personaje y la estrategia de la marca n redes sociales.Esto requiere que se entinda los valores de la marca y como transmitir eso en otros formatos.
+- Desarrolla  el personaje y la estrategia de la marca en redes sociales.Esto requiere que se entinda los valores de la marca y como transmitir eso en otros formatos.
 
 
 - Liderar equipos
