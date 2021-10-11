@@ -30,7 +30,8 @@ Trabajar en equipo y fijar tareas correctamente.
 - Plantea objetivos e maneja el presupuesto.
 
 
-- Identifica usuario 
+- Identifica usuario
+-  
 crea  insights, Lanzara hipótesis sobre la audiencia(es útil para mejorar el performance de las campañas paga)
 
   
