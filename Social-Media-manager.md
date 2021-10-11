@@ -16,7 +16,7 @@ DIFERENCIA CON EL COMMUNITY MANAGER
 ![Social media manager vs community](https://raw.githubusercontent.com/lcarloszapatag/Audioglosario-Roles-en-Marketing-Digital/main/roles-comunity-manajer-platzi.png)
 > Los mejores Crean una conexion emocional con la marca
 
-Si se logra  esta citasera la  mejor estrategia 
+Si se logra  esta cita sera la  mejor estrategia. 
 
 Tareas:
 
