@@ -16,6 +16,7 @@ DIFERENCIA CON EL COMMUNITY MANAGER
 > Los mejores Crean una conexion emocional con la marca
 
 Si se logra sera la  mejor estrategia 
+
 Tareas:
 
 - Desarrolla  el personaje y la estrategia de la marca en redes sociales.Esto requiere que se entinda los valores de la marca y como transmitir eso en otros formatos.
