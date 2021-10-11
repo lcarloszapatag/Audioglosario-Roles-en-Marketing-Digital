@@ -7,9 +7,10 @@ _________________________________________
 Define:
 Métodos 
 
-Tabaja al lado de un comunity manager para hacer crecer una marca.
+Trabaja al lado de un comunity manager para hacer crecer una marca.
 
-La diferencia es que el community es mas operativo en social media y el social manager es mas estratégico
+DIFERENCIA CON EL COMMUNITY MANAGER
+[La diferencia es que el community](https://www.youtube.com/watch?v=vDw3XuBDJ8E) es mas operativo en social media y el social manager es mas estratégico
 
 ![Social media manager vs community](https://raw.githubusercontent.com/lcarloszapatag/Audioglosario-Roles-en-Marketing-Digital/main/roles-comunity-manajer-platzi.png)
 LOS MEJORES CREA UNA CONEXIÓN EMOCIONAL CON LA MARCA(Si se logra esto es que hay una buena estrategia)
